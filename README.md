@@ -1,4 +1,3 @@
-
 #### design software 
 
 #### programming
@@ -54,4 +53,4 @@
 
 
 #### reference  
-
+* [JavaScript The Good Parts] 
