@@ -1,16 +1,18 @@
-import fs from 'node:fs'
+import fs from 'fs'
 
-const listContents = (err, files) => {
-    console.log('running callback')
+const srcDir = process.argv[2]
+
+const files =  fs.readdir(srcDir,  function (err, files) { //callback
     if (err) {
-        console.error(err)
+        console.log(err)
     } else {
         for (const name of files) {
             console.log(name)
         }
     }
-}
-const srcDir = process.argv[2]
-const results = fs.readdir(srcDir, listContents)
+
+}) 
+
+
 console.log('last line of program')
 

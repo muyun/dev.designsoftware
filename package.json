@@ -5,5 +5,9 @@
   },
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "glob": "^10.3.10",
+    "glob-fs": "^0.1.7"
   }
 }
