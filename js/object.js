@@ -3,6 +3,7 @@
 
 const main = () => {
 
+    // {} is linked to Object.prototype
     var empty_object = {}
 
     var stooge = {
@@ -11,6 +12,9 @@ const main = () => {
     }
 
     console.log(stooge["first-name"])
+
+    // interface is the collection of operations that external code can perform on it
+    
 
 }
 

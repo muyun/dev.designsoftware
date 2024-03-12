@@ -51,3 +51,10 @@ hopeThat('Sign of zero is 0', () => assert(sign(0) === 0))
 hopeThat('Sign misspelled is error', () => assert(sgn(1) === 1))
 
 main()
+
+
+import hope from './hope.js'
+
+hope.test('Quotient of 1 and 0', () => assert((1 / 0) === 0))
+hope.run()
+console.log(hope.verbose())
