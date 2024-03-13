@@ -1,15 +1,13 @@
+#### software design
 
-#### software design  
+#### reference
 
-
-#### reference  
-* [aosa](https://aosabook.org/en/)  
-* [Software Design by Example with js](https://third-bit.com/sdxjs/)
-* [Software Design by Example with python](https://third-bit.com/sdxpy/)  
-* [Eloquent JavaScript](https://eloquentjavascript.net/)
-* [JavaScript The Good Parts]  
-* [The Modern JavaScript Tutorial](https://javascript.info/)  
-* [Improve how you architect webapps](https://www.patterns.dev/)
-* [web.lab](https://weblab.mit.edu/schedule/)  
-* [CS142: Web Applications - Spring 2022](https://web.stanford.edu/class/cs142/index.html) 
-* [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)  
+-   [aosa](https://aosabook.org/en/)
+-   [Software Design by Example with js](https://third-bit.com/sdxjs/)
+-   [Eloquent JavaScript](https://eloquentjavascript.net/)
+-   [JavaScript The Good Parts]
+-   [The Modern JavaScript Tutorial](https://javascript.info/)
+-   [Improve how you architect webapps](https://www.patterns.dev/)
+-   [web.lab](https://weblab.mit.edu/schedule/)
+-   [CS142: Web Applications - Spring 2022](https://web.stanford.edu/class/cs142/index.html)
+-   [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
