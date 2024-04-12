@@ -1,5 +1,12 @@
 #### software design
 
+-   ch8
+
+    -   **function is an object** which has parameters and body
+
+    -   closures are functions with data attached
+        -   closure has function and (hidden) variables
+
 #### reference
 
 -   [aosa](https://aosabook.org/en/)
